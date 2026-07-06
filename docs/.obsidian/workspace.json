@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "AWS/IAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "IAM"
             }
           }
         ]
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d44c9934a2b83b0",
+  "active": "ded6999a8d7ed332",
   "lastOpenFiles": [
-    "index.md",
     "AWS/EC2.md",
+    "AWS/IAM.md",
+    "index.md",
     "blog/index.md",
     "blog/posts/hello-world.md",
     "Features/Text Formatting.md",
