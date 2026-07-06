@@ -1,13 +1,13 @@
 EC2 - Elastic Compute Cloud
 
 Configuration Options For EC2
-1) Operating System
-2) Compute Power
-3) RAM
-4) Storage space and which type
-5) Network card 
-6) Firewall rules : security group
-7) Bootstrap script  (Launch commands while machine starts and runs  only ones when machine starts)
+1. Operating System
+2. Compute Power
+3. RAM
+4. Storage space and which type
+5. Network card 
+6. Firewall rules : security group
+7. Bootstrap script  (Launch commands while machine starts and runs  only ones when machine starts)
 
 - Bootstrap script runs with root user privilege
 - Security group controls traffic from and to to our instance
